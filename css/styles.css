@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'LariFont';
+  src: url('../fonts/LariSymbolV2.eot?#iefix') format('embedded-opentype'),  url('../fonts/LariSymbolV2.woff') format('woff'), url('../fonts/LariSymbolV2.ttf')  format('truetype'), url('../fonts/LariSymbolV2.svg#LariSymbolV2') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.lari{
+	font-family: LariFont;
+}
+
+ 
